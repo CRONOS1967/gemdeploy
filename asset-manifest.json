@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.073c9b0a.css",
-    "main.js": "./static/js/main.4e78d9ad.js",
-    "static/js/787.6ec8b389.chunk.js": "./static/js/787.6ec8b389.chunk.js",
-    "index.html": "./index.html",
-    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
-    "main.4e78d9ad.js.map": "./static/js/main.4e78d9ad.js.map",
-    "787.6ec8b389.chunk.js.map": "./static/js/787.6ec8b389.chunk.js.map"
+    "main.css": "/gemstone/static/css/main.073c9b0a.css",
+    "main.js": "/gemstone/static/js/main.dd0d5a89.js",
+    "static/js/787.6ec8b389.chunk.js": "/gemstone/static/js/787.6ec8b389.chunk.js",
+    "index.html": "/gemstone/index.html",
+    "main.073c9b0a.css.map": "/gemstone/static/css/main.073c9b0a.css.map",
+    "main.dd0d5a89.js.map": "/gemstone/static/js/main.dd0d5a89.js.map",
+    "787.6ec8b389.chunk.js.map": "/gemstone/static/js/787.6ec8b389.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.4e78d9ad.js"
+    "static/js/main.dd0d5a89.js"
   ]
 }
